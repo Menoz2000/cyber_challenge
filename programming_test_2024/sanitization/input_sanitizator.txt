@@ -1,7 +1,0 @@
-5 1
-banned
-safestring
-bannedstring
-notbanndstring
-notBannedstring
-StillNotb4nned
